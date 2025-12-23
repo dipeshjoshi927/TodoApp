@@ -1,0 +1,4 @@
+# Exclude Django database files
+Todo/db.sqlite3
+# Exclude Django manage.py
+Todo/manage.py
